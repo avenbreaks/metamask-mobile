@@ -1,0 +1,16 @@
+current directory: /workspace/metamask-mobile/vendor/bundle/ruby/3.2.0/gems/json-2.5.1/ext/json
+/home/gitpod/.rvm/rubies/ruby-3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspace/metamask-mobile/vendor/bundle/ruby/3.2.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240321-3353-phgvhi sitelibdir\=./.gem.20240321-3353-phgvhi clean
+
+current directory: /workspace/metamask-mobile/vendor/bundle/ruby/3.2.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240321-3353-phgvhi sitelibdir\=./.gem.20240321-3353-phgvhi
+make: Nothing to be done for 'all'.
+
+current directory: /workspace/metamask-mobile/vendor/bundle/ruby/3.2.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240321-3353-phgvhi sitelibdir\=./.gem.20240321-3353-phgvhi install
+
+current directory: /workspace/metamask-mobile/vendor/bundle/ruby/3.2.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240321-3353-phgvhi sitelibdir\=./.gem.20240321-3353-phgvhi clean

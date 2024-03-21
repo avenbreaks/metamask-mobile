@@ -1,0 +1,377 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SwitchCustomNetwork should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "borderTopLeftRadius": 20,
+      "borderTopRightRadius": 20,
+      "minHeight": 200,
+      "paddingBottom": 20,
+      "paddingTop": 24,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#24272A",
+          "fontFamily": "EuclidCircularB-Regular",
+          "fontSize": 30,
+          "fontWeight": "400",
+          "marginVertical": 2,
+        },
+        Object {
+          "textAlign": "center",
+        },
+        undefined,
+        Object {
+          "fontFamily": "EuclidCircularB-Bold",
+          "fontWeight": "600",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "color": "#24272A",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "marginVertical": 0,
+        },
+        Object {
+          "fontSize": 24,
+          "marginBottom": 16,
+          "marginLeft": 24,
+          "marginRight": 24,
+          "marginTop": 16,
+        },
+      ]
+    }
+  >
+    New network added
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#24272A",
+          "fontFamily": "EuclidCircularB-Regular",
+          "fontSize": 30,
+          "fontWeight": "400",
+          "marginVertical": 2,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "color": "#24272A",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "marginVertical": 0,
+        },
+        Object {
+          "fontSize": 13,
+          "paddingBottom": 16,
+          "paddingHorizontal": 24,
+          "textAlign": "center",
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#24272A",
+            "fontFamily": "EuclidCircularB-Regular",
+            "fontSize": 30,
+            "fontWeight": "400",
+            "marginVertical": 2,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#24272A",
+              "fontFamily": "EuclidCircularB-Regular",
+              "fontSize": 30,
+              "fontWeight": "400",
+              "marginVertical": 2,
+            },
+            undefined,
+            undefined,
+            Object {
+              "fontFamily": "EuclidCircularB-Bold",
+              "fontWeight": "600",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "color": "#24272A",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "marginVertical": 0,
+            },
+            undefined,
+          ]
+        }
+      >
+        ""
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#24272A",
+              "fontFamily": "EuclidCircularB-Regular",
+              "fontSize": 30,
+              "fontWeight": "400",
+              "marginVertical": 2,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "marginVertical": 0,
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        is now available in the network selector.
+      </Text>
+    </Text>
+  </Text>
+  <View
+    style={
+      Object {
+        "flex": 0,
+        "flexDirection": "row",
+        "marginTop": 20,
+        "padding": 24,
+      }
+    }
+  >
+    <TouchableOpacity
+      accessibilityRole="button"
+      accessible={true}
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Array [
+            Object {
+              "borderRadius": 100,
+              "justifyContent": "center",
+              "padding": 15,
+            },
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderColor": "#535A61",
+              "borderWidth": 1,
+            },
+            Array [
+              Object {
+                "flex": 1,
+              },
+              Object {
+                "marginRight": 8,
+              },
+            ],
+          ],
+          null,
+        ]
+      }
+      testID="cancel-button"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#007aff",
+              "fontSize": 17,
+              "fontWeight": "500",
+              "textAlign": "center",
+            },
+            null,
+            Array [
+              Object {
+                "fontFamily": "EuclidCircularB-Bold",
+                "fontSize": 14,
+                "fontWeight": "600",
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#535A61",
+              },
+              undefined,
+            ],
+            null,
+          ]
+        }
+      >
+        Cancel
+      </Text>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      accessible={true}
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Array [
+            Object {
+              "borderRadius": 100,
+              "justifyContent": "center",
+              "padding": 15,
+            },
+            Object {
+              "backgroundColor": "#0376C9",
+              "minHeight": 50,
+            },
+            Array [
+              Object {
+                "flex": 1,
+              },
+              Object {
+                "marginLeft": 8,
+              },
+            ],
+          ],
+          null,
+        ]
+      }
+      testID="connect-button"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#007aff",
+              "fontSize": 17,
+              "fontWeight": "500",
+              "textAlign": "center",
+            },
+            null,
+            Array [
+              Object {
+                "fontFamily": "EuclidCircularB-Bold",
+                "fontSize": 14,
+                "fontWeight": "600",
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#FFFFFF",
+              },
+              undefined,
+            ],
+            null,
+          ]
+        }
+      >
+        Switch Network
+      </Text>
+    </TouchableOpacity>
+  </View>
+</View>
+`;
