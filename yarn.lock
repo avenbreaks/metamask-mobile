@@ -12071,10 +12071,10 @@ browserslist@^4.14.5, browserslist@^4.21.9, browserslist@^4.22.1:
     node-releases "^2.0.13"
     update-browserslist-db "^1.0.13"
 
-browserstack-local@^1.4.5, browserstack-local@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/browserstack-local/-/browserstack-local-1.5.1.tgz#0d424474cc2b74a9d9a22d00a2282941ff636f34"
-  integrity sha512-T/wxyWDzvBHbDvl7fZKpFU7mYze6nrUkBhNy+d+8bXBqgQX10HTYvajIGO0wb49oGSLCPM0CMZTV/s7e6LF0sA==
+browserstack-local@^1.4.5, browserstack-local@^1.5.5:
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/browserstack-local/-/browserstack-local-1.5.5.tgz#f36b625f3b8bfd053f673d85fd1082f2d0759693"
+  integrity sha512-jKne7yosrMcptj3hqxp36TP9k0ZW2sCqhyurX24rUL4G3eT7OLgv+CSQN8iq5dtkv5IK+g+v8fWvsiC/S9KxMg==
   dependencies:
     agent-base "^6.0.2"
     https-proxy-agent "^5.0.1"
