@@ -396,7 +396,7 @@
     "@types/valid-url": "^1.0.4",
     "@typescript-eslint/eslint-plugin": "^5.57.0",
     "@typescript-eslint/parser": "^5.57.0",
-    "@walletconnect/types": "^2.9.0",
+    "@walletconnect/types": "^2.16.1",
     "@wdio/appium-service": "^7.19.1",
     "@wdio/browserstack-service": "^7.26.0",
     "@wdio/cli": "^7.19.1",
